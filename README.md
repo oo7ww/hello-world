@@ -1,2 +1,3 @@
 # hello-world
-learn to use
+code for fun
+that's all
